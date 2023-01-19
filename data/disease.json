@@ -1,0 +1,840 @@
+{
+  "Fungal infection": {
+    "common name": "mycosis",
+    "Disease overview": [
+      {
+        "general_overview": "Any disease caused by a fungus. A fungus that invades the tissue can cause a disease that's confined to the skin, spreads into tissue, bones and organs or affects the whole body. Symptoms depend on the area affected, but can include skin rash or vaginal infection resulting in abnormal discharge.Treatments include antifungal medication."
+      },
+      {
+        "frequency": "More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging required|Medium-term: resolves within months",
+        "cause": "Fungal infections are infections caused by a fungus, a type of microorganism|Two common causes of fungal infections are a fungus called tinea and yeast infections caused by the fungus Candida albicans|Some very common types of fungal infections caused by tinea include: Athlete's foot."
+      }
+    ],
+    "types": "Athlete's foot|jock itch|ringworm|yeast infection|onychomycosis",
+    "symptoms": "Irritation|Scaly skin|Redness|Itching|Swelling|Blisters|darkening of the skin|peeling|rashes|deformed toe-nail|vaginal discharge",
+    "treatment": "Athele's foot is often treated with tropical antifungal ointments|Jock itch can be treated by topcial antifungal ointments and proper hygiene|There are different treatment procedures for different types of Fungal Infection, please refer the link given below",
+    "medications": "clotrimazole|econazole|miconazole|terbinafine|fluconazole|ketoconazole|amphotericin",
+    "specialists": "Dermatologist|Medical Microbiologist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/fungal-infection"
+  },
+  "Allergy": {
+    "common name": "Allergic Disease",
+    "Disease overview": [
+      {
+        "general_overview": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body. These foreign substances are called allergens. They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens. Allergies are common. Several treatments can help you avoid your symptoms."
+      },
+      {
+        "frequency": "Around 20-30 percent of population suffer from some type of allergy"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis only in severe cases|Lab tests or imaging often required|Short-term: resolves within days",
+        "cause": "Doctors don’t know why some people experience allergies. Allergies appear to run in families and can be inherited. If you have a close family member who has allergies, you’re at greater risk for developing allergies|Although the reasons why allergies develop aren’t known, there are some substances that commonly cause an allergic reaction. People who have allergies are typically allergic to one or more of the following: pet dander, bee stings, certain food items, certain medications, certain plants, pollen, etc."
+      }
+    ],
+    "types": "Drug Allergy - An abnormal reaction of the immune system to a medication|Food Allergies - An unpleasant or dangerous immune system reaction after a certain food is eaten|Contact dermatitis - A skin rash caused by contact with a certain substance|Latex Allergy - An allergic reaction to certain proteins found in natural rubber latex|Allergic asthma - Asthma triggered by exposure to the same substances that trigger allergy symptoms|Allergic rhinitis - An allergic response causing itchy, watery eyes, sneezing and other similar symptoms|Animal Allergy - An abnormal immune reaction to proteins in an animal's skin cells, saliva or urine",
+    "symptoms": "sneezing and an itchy runny nose (allergic rhnitis)|red watering eyes (conjunctivitis)|swelling|rash|symptoms usually depends on allergy type",
+    "treatment": "Drug Allergy - Treatment involves discontinuing the medication that’s causing the reaction. Other medication can reduce the allergy symptoms, such as antihistamines. In severe cases, bronchodilators or adrenalin may be required|Food Allergies - Antihistamine drugs treat mild reactions. A severe reaction needs an injection of the drug epinephrine and emergency room care|Contact dermatitis - Avoiding the irritant or allergen should allow the rash to clear in two to four weeks. Creams or medication can help reduce itching|Latex Allergy - A person who is allergic to latex should avoid it. Antihistamine drugs can help minor reactions. Severe reactions may require emergency care|Allergic asthma - Medication helps to control the condition|Allergic rhinitis - Antihistamine medication can reduce symptoms|Animal Allergy - Treatment involves avoiding exposure to the animal. Medication can relieve symptoms and manage asthma, if required",
+    "medications": "Antihistamine|Steriod|Antifungal|Bronchodilator|Anti-inflammatory",
+    "specialists": "Allergy and Immunology Doctor|Primary Care Provider|Gastroenterologist|Nutritionist",
+    "more info": "https://www.healthline.com/health/allergies/allergic-reaction"
+  },
+  "GERD": {
+    "common name": "Acid reflux",
+    "Disease overview": [
+      {
+        "general_overview": "A digestive disease in which stomach acid or bile irritates the food pipe lining. This is a chronic disease that occurs when stomach acid or bile flows into the food pipe and irritates the lining. Acid reflux and heartburn more than twice a week may indicate GERD.Symptoms include burning pain in the chest that usually occurs after eating and worsens when lying down.Relief from lifestyle changes and over-the-counter medication is usually temporary. Stronger medication may be required"
+      },
+      {
+        "frequency": "Very common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Usually self-diagnosable|Lab tests or imaging rarely required|Medium-term: resolves within months",
+        "cause": "One common cause of acid reflux disease is a stomach abnormality called a hiatal hernia. This occurs when the upper part of the stomach and LES move above the diaphragm, a muscle that separates your stomach from your chest|Normally, the diaphragm helps keep acid in our stomach. But if you have a hiatal hernia, acid can move up into your esophagus and cause symptoms of acid reflux disease."
+      }
+    ],
+    "symptoms": "belching|heartburn|nausea|regurgitation|bitter taste|discomfort in upper abdomen|dry cough",
+    "treatment": "Elevate head of bed - Reduces the likelihood of acid reflux or developing a pneumonia from saliva entering the airways|Dietary modification - Adjusting diet to prevent or treat disease|Weight loss - Can improve cardiovascular health and reduce the risk of compilcations related to obesity",
+    "medications": "Antacid - Counteracts the effects of stomach acid|Proton-pump inhibitor - Decreases acid release in the stomach|Antidiarrhoeal - Reduces the frequency and urgency of bowel movements",
+    "specialists": "Paediatrician|Primary Care Provider|Gastroenterologist",
+    "more info": "https://www.healthline.com/health/gerd"
+  },
+  "Chronic cholestasis": {
+    "common name": "primary biliary cholangitis",
+    "Disease overview": [
+      {
+        "general_overview": "Cholestasis is a liver disease. It occurs when the flow of bile from your liver is reduced or blocked. Bile is fluid produced by your liver that aids in the digestion of food, especially fats. When bile flow is altered, it can lead to a buildup of bilirubin. Bilirubin is a pigment produced by your liver and excreted from your body via bile. It can be caused by infection, drug use, genetic abnormalities or hormonal effects on bile flow"
+      },
+      {
+        "frequency": "Moderately common"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Lab tests or imaging rarely required|Long term - serious cases my lead to liver cancer",
+        "cause": "Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases."
+      }
+    ],
+    "types": "intraheptic cholestasis|extraheptic cholestasis",
+    "symptoms": "belching|heartburn|nausea|regurgitation|bitter taste|discomfort in upper abdomen|dry cough",
+    "treatment": "Echolestasis often does not respond to medical therapy of any sort. Some reports indicate success in children with chronic cholestatic diseases with the use of ursodeoxycholic acid (20-30 mg/kg/d), which acts to increase bile formation and antagonizes the effect of hydrophobic bile acids on biological membranes",
+    "medications": "Ursodeoxycholic acid",
+    "specialists": "Hepatologist|Gastroenterologist",
+    "more info": "https://www.healthline.com/health/cholestasis"
+  },
+  "Drug Reaction": {
+    "common name": "drug allergy",
+    "Disease overview": [
+      {
+        "general_overview": "Your immune system helps protect you from disease. It’s designed to fight foreign invaders such as viruses, bacteria, parasites, and other dangerous substances. With a drug allergy, your immune system mistakes a drug that enters your body for one of these invaders. In response to what it thinks is a threat, your immune system begins to make antibodies. These are special proteins that are programmed to attack the invader. In this case, they attack the drug\\n. This immune response leads to increased inflammation, which can cause symptoms such as rash, fever, or trouble breathing. The immune response might happen the first time you take the drug, or it may not be until after you’ve taken it many times with no problem."
+      },
+      {
+        "frequency": "Very common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Lab tests or imaging rarely required|Short term - resolve within days",
+        "cause": "A drug allergy occurs when your immune system mistakenly identifies a drug as a harmful substance, such as a virus or bacterium. Once your immune system detects a drug as a harmful substance, it will develop an antibody specific to that drug"
+      }
+    ],
+    "symptoms": "skin rash|hives|Itching|Swelling|Shortness of breath|Wheezing",
+    "treatment": "Withdrawal of the drug - If your doctor determines that you have a drug allergy — or likely allergy — discontinuing the drug is the first step in treatment. In many cases, this may be the only intervention necessary|Anithistamines - Your doctor may prescribe an antihistamine or recommend an over-the-counter antihistamine such as diphenhydramine (Benadryl) that can block immune system chemicals activated during an allergic reaction|Corticosteriods - Either oral or injected corticosteroids may be used to treat inflammation associated with more-serious reactions",
+    "medications": "morphine|aspirin|chemotherapy drugs",
+    "specialists": "Primary Care Provider|Allergist",
+    "more info": "https://www.healthline.com/health/drug-allergy"
+  },
+  "Peptic ulcer disease": {
+    "common name": "Stomach ulcer",
+    "Disease overview": [
+      {
+        "general_overview": "A sore that develops on the lining of the oesophagus, stomach or small intestine. Ulcers occur when stomach acid damages the lining of the digestive tract. Common causes include the bacteria H. Pylori and anti-inflammatory pain relievers including aspirin.Upper abdominal pain is a common symptom. Treatment usually includes medication to decrease stomach acid production. If it is caused by bacteria, antibiotics may be required."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Lab tests or imaging often required|Medium-term: resolves within months",
+        "cause": "he most common causes of peptic ulcers are infection with the bacterium Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve)|Stress and spicy foods do not cause peptic ulcers."
+      }
+    ],
+    "types": "",
+    "symptoms": "Pain in chest or upper abdomen|heartburn|indigestion nausea|vomiting|fatigue|loss of apetite|abdomnial discomfort",
+    "treatment": "Treatment usually includes medication to decrease stomach acid production. If it is caused by bacteria, antibiotics may be required.",
+    "medications": "Antibiotics|Penicillin|Antidiarrhoeal|Antacid",
+    "specialists": "Primary Care Provider|Gastroenterologist",
+    "more info": "https://www.healthline.com/health/peptic-ulcer"
+  },
+  "AIDS": {
+    "common name": "Human Immunodeficiency Virus",
+    "Disease overview": [
+      {
+        "general_overview": "HIV causes AIDS and interferes with the body's ability to fight infections. The virus can be transmitted through contact with infected blood, semen or vaginal fluids. Within a few weeks of HIV infection, flu-like symptoms such as fever, sore throat and fatigue can occur. Then the disease is usually asymptomatic until it progresses to AIDS. AIDS symptoms include weight loss, fever or night sweats, fatigue and recurrent infections. No cure exists for AIDS, but strict adherence to antiretroviral regimens (ARVs) can dramatically slow the disease's progress as well as prevent secondary infections and complications."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging always required|Chronic: can last for years or be lifelong",
+        "cause": "HIV infection is caused by the human immunodeficiency virus. You can get HIV from contact with infected blood, semen, or vaginal fluids. Most people get the virus by having unprotected sex with someone who has HIV. Another common way of getting it is by sharing drug needles with someone who is infected with HIV."
+      }
+    ],
+    "types": "",
+    "symptoms": "pain in the abdomen|dry cough|night sweats|loss of apetite|persistent diarrhoea|difficulty swallowing|ulcers|skin rash|swollen lymph nodes|pneumonia|weight loss",
+    "treatment": "No cure exists for AIDS, but strict adherence to antiretroviral regimens (ARVs) can dramatically slow the disease's progress as well as prevent secondary infections and complications.",
+    "medications": "HIV antiviral",
+    "specialists": "Primary Care Provider|Clinical Psychologist|Infectious Disease Doctor",
+    "more info": "https://www.healthline.com/health/hiv-aids"
+  },
+  "Diabetes ": {
+    "common name": "diabetes mellitus",
+    "Disease overview": [
+      {
+        "general_overview": "A group of diseases that result in too much sugar in the blood (high blood glucose)."
+      },
+      {
+        "frequency": " Very Common - 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help control, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging always required|Chronic: can last for years or be lifelong",
+        "cause": "Different causes are associated with each type of diabetes|Type 1 diabetes - Doctors don’t know exactly what causes type 1 diabetes. For some reason, the immune system mistakenly attacks and destroys insulin-producing beta cells in the pancreas|Type 2 diabetes - Doctors don’t know exactly what causes type 1 diabetes. For some reason, the immune system mistakenly attacks and destroys insulin-producing beta cells in the pancreas|Gestational diabetes - Gestational diabetes is the result of hormonal changes during pregnancy. The placenta produces hormones that make a pregnant woman’s cells less sensitive to the effects of insulin. This can cause high blood sugar during pregnancy"
+      }
+    ],
+    "types": "Type 1 diabetes - A chronic condition in which the pancreas produces little or no insulin|Type 2 diabetes - A chronic condition that affects the way the body processes blood sugar (glucose)|Prediabetes - A condition in which blood sugar is high, but not high enough to be type 2 diabetes|Gestational diabetes - A form of high blood sugar affecting pregnant women",
+    "symptoms": "increased hunger|increased thirst|weight loss|frequent urine|blurry vision|extreme fatigue|sores that don't heal",
+    "treatment": "There are different treatment procedures for different types of diabetes|Refer the link given below|",
+    "medications": "Metformin|Thiazolidinediones|secretagogues|Insulin|Acarbose|miglitol",
+    "specialists": "Primary Care Provider|Endocrinologist|Nutritionist",
+    "more info": "https://www.healthline.com/health/diabetes"
+  },
+  "Gastroenteritis": {
+    "common name": "Stomach flu",
+    "Disease overview": [
+      {
+        "general_overview": "An intestinal infection marked by diarrhoea, cramps, nausea, vomiting and fever. Stomach flu is typically spread by contact with an infected person or through contaminated food or water. Diarrhoea, cramps, nausea, vomiting and low-grade fever are common symptoms. Avoiding contaminated food and water and washing hands can often help prevent infection. Rest and rehydration are the mainstays of treatment."
+      },
+      {
+        "frequency": " Very Common - 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Usually self treatable|Usually self-diagnosable|Lab tests or imaging rarely required|Short-term: resolves within days to weeks",
+        "cause": "Through contaminated food or water.By touching a contaminated surface (blanket or doorknob)."
+      }
+    ],
+    "types": "",
+    "symptoms": "diarrhoea|stomach cramps|belching|indigestion|vomiting|dehydration|insufficient urine production|loss of appetite|weakness|weight loss",
+    "treatment": "Avoiding contaminated food and water and washing hands can often help prevent infection. Rest and rehydration are the mainstays of treatment.",
+    "medications": "Anitbiotics|Dietary supplement",
+    "specialists": "Primary Care Provider|Gastroenterologist|Paediatrician",
+    "more info": "https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847"
+  },
+  "Bronchial Asthma": {
+    "common name": "Asthma",
+    "Disease overview": [
+      {
+        "general_overview": "A condition in which a person's airways become inflamed,narrow and swell and produce extra mucus, which makes it difficult to breathe. Asthma can be minor or it can interfere with daily activities. In some cases, it may lead to a life-threatening attack. Asthma may cause difficulty breathing, chest pain, cough and wheezing. The symptoms may sometimes flare up."
+      },
+      {
+        "frequency": " Very Common - 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging often required|Chronic: can last for years or be lifelong",
+        "cause": "It isn't clear why some people get asthma and others don't, but it's probably due to a combination of environmental and inherited (genetic) factors."
+      }
+    ],
+    "types": "",
+    "symptoms": "Shortness of breath|Chest tightness or pain|frequent respiratory infections|chest pressure|anxiety|throat irritation|insufficient urine production|Trouble sleeping|Coughing or wheezing attacks",
+    "treatment": "Asthma can usually be managed with rescue inhalers to treat symptoms (salbutamol) and controller inhalers that prevent symptoms (steroids)|Severe cases may require longer-acting inhalers that keep the airways open (formoterol, salmeterol, tiotropium), as well as inhalant steroids.",
+    "medications": "Bronchodilator|Steriod|Anti-inflammatory",
+    "specialists": "Primary Care Provider|Pulmonolgist|Respiratory Therapist",
+    "more info": "https://getasthmahelp.org/all-about-asthma.aspx"
+  },
+  "Hypertension": {
+    "common name": "High Blood Pressure",
+    "Disease overview": [
+      {
+        "general_overview": "A condition in which the force of the blood against the artery walls is too high.Usually hypertension is defined as blood pressure above 140/90, and is considered severe if the pressure is above 180/120. High blood pressure often has no symptoms. Over time, if untreated, it can cause health conditions, such as heart disease and stroke. Eating a healthier diet with less salt, exercising regularly and taking medication can help lower blood pressure."
+      },
+      {
+        "frequency": " Very Common - 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging not required|Chronic: can last for years or be lifelong",
+        "cause": "The cause of hypertension is often not known. Primary hypertension can result from multiple factors including blood plasma volumne, hormone activity in people, environmental factors (stress and lack of exercise)."
+      }
+    ],
+    "types": "",
+    "symptoms": "High blood pressure often has no symptoms. Over time, if untreated, it can cause health conditions, such as heart disease and stroke|Severe hypertension can have symptoms like severe headaches, nosebleed, fatigue, vision problems, etc.",
+    "treatment": "Eating a healthier diet with less salt, exercising regularly and taking medication can help lower blood pressure|Self-care - Physical exercise,stress management, quitting smoking, low sodium diet",
+    "medications": "ACE inhibitor|Diuretic|Antihypertensive drug|Vasodilator",
+    "specialists": "Primary Care Provider|Cardiologist|Nephrologist",
+    "more info": "https://www.medicalnewstoday.com/articles/150109#causes"
+  },
+  "Migraine": {
+    "common name": "Migraine headache",
+    "Disease overview": [
+      {
+        "general_overview": "A headache of varying intensity, often accompanied by nausea and sensitivity to light and sound. Migraine headaches are sometimes preceded by warning symptoms. Triggers include hormonal changes, certain food and drink, stress and exercise. Migraine headaches can cause throbbing in one particular area that can vary in intensity. Nausea and sensitivity to light and sound are also common symptoms. Preventive and pain-relieving medication can help manage migraine headaches."
+      },
+      {
+        "frequency": " Very Common - 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Usually self-diagnosable|Lab tests or imaging rarely required|Chronic: can last for years or be lifelong",
+        "cause": "The cause of hypertension is often not known. Primary hypertension can result from multiple factors including blood plasma volumne, hormone activity in people, environmental factors (stress and lack of exercise)."
+      }
+    ],
+    "types": "",
+    "symptoms": "Throbbing in one particular area with varying intensity|Nausea|Sensitivity to light and sound|headache - can be acute, frequent, or throbbing|irritability",
+    "treatment": "Preventive and pain-relieving medication can help manage migraine headaches|Self care - stress management, Improved sleeop habits, avoid migraine triggers and diet modification",
+    "medications": "Antipsychotic|Analgesic|Stimulant|Triptan|Neurotoxin|Nonsteroidal anit-inflammatory drug",
+    "specialists": "Primary Care Provider|Neurologist",
+    "more info": "https://www.healthline.com/health/migraine#:~:text=Migraine%20is%20a%20neurological%20condition,families%20and%20affect%20all%20ages."
+  },
+  "Cervical spondylosis": {
+    "common name": "Spondylosis",
+    "Disease overview": [
+      {
+        "general_overview": "A general term for age-related wear and tear of the spinal discs. Spondylosis is common and worsens with age. This condition is often used to describe degenerative arthritis (osteoarthritis) of the spine. Most people don't have symptoms, but some may experience pain or muscle spasms. In many cases, no specific treatment is required. If symptoms occur, treatments include medication, corticosteroid injections, physiotherapy and sometimes surgery."
+      },
+      {
+        "frequency": " Very Common - 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging often required|Chronic: can last for years or be lifelong",
+        "cause": "The cause of hypertension is often not known. Primary hypertension can result from multiple factors including blood plasma volumne, hormone activity in people, environmental factors (stress and lack of exercise)."
+      }
+    ],
+    "types": "",
+    "symptoms": "Can have no symptoms, but people may experience - pain in the back, legs, thighs, neck or shoulder, muscle weakness and stiffness",
+    "treatment": "In many cases, no specific treatment is required. If symptoms occur, treatments include medication, corticosteroid injections, physiotherapy and sometimes surgery|Self care - Warm compress, Ice packs and Physical exercies| Surgery - spinal surgery, Laminectomy, Laminotomy, Laminoplasty, Facetectomy",
+    "medications": "Analgesic|Muscle relaxant|Steriod|Narcotic|Local anesthetic|Nonsteroidal anit-inflammatory drug",
+    "specialists": "Orthopaedic Surgeon|Physiotherapist|Neurosurgeon|Primary Care Provider",
+    "more info": "https://www.mayoclinic.org/diseases-conditions/cervical-spondylosis/symptoms-causes/syc-20370787#:~:text=Cervical%20spondylosis%20is%20a%20general,common%20and%20worsens%20with%20age."
+  },
+  "Paralysis (brain hemorrhage)": {
+    "common name": "cerebral hemorrhage",
+    "Disease overview": [
+      {
+        "general_overview": "An emergency condition in which a ruptured blood vessel causes bleeding inside the brain. High blood pressure and trauma are two leading causes. Taking blood-thinning drugs may also increase a person's risk. Symptoms can vary based on the location of the haemorrhage in the brain, but may include numbness or weakness in part of the face, difficulty speaking or difficulty walking. Emergency treatment is required for cerebral haemorrhage. It usually involves medication and close monitoring in an intensive care unit. In rare cases, surgery may be required to relieve pressure around the brain."
+      },
+      {
+        "frequency": "Common - 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging always required|Critical: needs emergency care",
+        "cause": "Bleeding in the brain (also called a brain hemorrhage or brain bleed) can happen because of an accident, brain tumor, stroke, or high blood pressure caused by congenital or other health conditions."
+      }
+    ],
+    "types": "",
+    "symptoms": "weakness of one side of the body or paralysis of one side of the body|bleeding|decreased level of consciousness|fainting|seizures|unequal pupils|difficulty speaking",
+    "treatment": "Emergency treatment is required for cerebral haemorrhage. It usually involves medication and close monitoring in an intensive care unit. In rare cases, surgery may be required to relieve pressure around the brain.",
+    "medications": "Antihypertensive drug|Diuretic|IV fluids",
+    "specialists": "Critical Care doctor|Neurologist|Neurosurgeon",
+    "more info": "https://www.webmd.com/brain/brain-hemorrhage-bleeding-causes-symptoms-treatments#:~:text=A%20brain%20hemorrhage%20is%20a,root%20for%20blood%20is%20hemo."
+  },
+  "Jaundice": {
+    "common name": "Jaundice",
+    "Disease overview": [
+      {
+        "general_overview": "Yellow skin caused by the build-up of bilirubin in the blood. Jaundice may occur if the liver can't efficiently process red blood cells as they break down. It's normal in healthy newborns and usually clears on its own. At other ages, it may signal infection or liver disease."
+      },
+      {
+        "frequency": "Common - 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable with proper treatment|Requires a medical diagnosis|Lab tests or imaging often required|Mid-term: Resolves within days or weeks",
+        "cause": "Jaundice can have causes that aren't due to underlying disease. Examples include Gilbert's syndrome (a benign condition) or medication side effects|Jaundice is caused by problems in liver (example, inflammation of the bile duct)"
+      }
+    ],
+    "types": "",
+    "symptoms": "yellowing of eyes|yellowing of skin|loss of apetite|weight loss|dark coloured urine|abdominal swelling|high fever|chills",
+    "treatment": "Jaundice usually doesn't require treatment in adults (it's a more severe problem in infants)|Anemia-induced jaundice can be treated by boosting the amount of iron in the blood by taking iron supplements or eating iron-rich foods|Hepatitis-induced jaundice requires antiviral or steroid medications|Doctors can treat obstruction-induced jaundice by surgically removing the obstruction|If the jaundice has been caused by use of a medication, treatment for involves changing to an alternative medication",
+    "medications": "Iron supplements|Steriods",
+    "specialists": "Primary Care Provider|Gastroenterologist",
+    "more info": "https://www.medicalnewstoday.com/articles/165749#treatment"
+  },
+  "Malaria": {
+    "common name": "plasmodium infection",
+    "Disease overview": [
+      {
+        "general_overview": "A disease caused by a plasmodium parasite, transmitted by the bite of infected mosquitoes. The severity of malaria varies based on the species of plasmodium. Symptoms are chills, fever and sweating, usually occurring a few weeks after being bitten. People travelling to areas where malaria is common typically take protective drugs before, during and after their trip. Treatment includes antimalarial drugs."
+      },
+      {
+        "frequency": "Rare - Fewer than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Critical: needs emergency care",
+        "cause": "By animal or insect bites or sting (generally mosquitoes)|By blood products (unclean needles or unscreened blood)"
+      }
+    ],
+    "types": "",
+    "symptoms": "chills|fatigue|night sweats|shivering|mental confusion|diarrhoea|vomiting|pain in abdomen or muscles",
+    "treatment": "People travelling to areas where malaria is common typically take protective drugs before, during and after their trip. Treatment includes antimalarial drugs.",
+    "medications": "Antiparasitic|Antibiotics",
+    "specialists": "Primary Care Provider|Infectious Disease Doctor",
+    "more info": "https://www.healthline.com/health/malaria#_noHeaderPrefixedContent"
+  },
+  "Chicken pox": {
+    "common name": "varicella",
+    "Disease overview": [
+      {
+        "general_overview": "A highly contagious viral infection which causes an itchy, blister-like rash on the skin. Chickenpox is highly contagious to those who haven't had the disease or been vaccinated against it.The most characteristic symptom is an itchy, blister-like rash on the skin. Chickenpox can be prevented by a vaccine. Treatment usually involves relieving symptoms, although high-risk groups may receive antiviral medication."
+      },
+      {
+        "frequency": "Rare - Fewer than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Usually self-treatable|Usually self-diagnosable|Lab tests or imaging rarely required|Short-term: resolves within days or weeks",
+        "cause": "Spreads by airborne respiratory droplets, saliva, skin-to-skin contact, touching a contaminated surface"
+      }
+    ],
+    "types": "",
+    "symptoms": "blister|scab|ulcers|red spots|fatigue|fever|itching|swollen lymph nodes",
+    "treatment": "Chickenpox can be prevented by a vaccine. Treatment usually involves relieving symptoms, although high-risk groups may receive antiviral medication.Self care include oatmeal bath and moisturizer",
+    "medications": "Analgesic|Antihistamine",
+    "specialists": "Primary Care Provider|Paediatrician",
+    "more info": "https://www.medicalnewstoday.com/articles/239450"
+  },
+  "Dengue": {
+    "common name": "breakbone fever",
+    "Disease overview": [
+      {
+        "general_overview": "A mosquito-borne viral disease occurring in tropical and subtropical areas. Those who become infected with the virus a second time are at a significantly greater risk of developing severe disease. Symptoms include high fever, headache, rash and muscle and joint pain. In severe cases there is serious bleeding and shock, which can be life threatening. Treatment includes fluids and pain relievers. Severe cases require hospital care."
+      },
+      {
+        "frequency": "Very Rare - Fewer than 100 thousand cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by medication|Requires a medical diagnosis|Lab tests or imaging often required|Short-term: resolves within days or weeks",
+        "cause": "Spreads by animal or insect bites or strings"
+      }
+    ],
+    "types": "",
+    "symptoms": "easy bruising|headache|nausea|vomiting|chills|fatigue|pain in joint or muscles|pain in back of the eyes",
+    "treatment": "Treatment includes fluids and pain relievers. Severe cases require hospital care|Supporitve care - fluid replacement, oral rehydration therapy and IV fluids",
+    "medications": "Analgesic",
+    "specialists": "Primary Care Provider|Infectious Disease Doctor",
+    "more info": "https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue#:~:text=Dengue%20is%20a%20mosquito%2Dborne%20viral%20disease%20that%20has%20rapidly,yellow%20fever%20and%20Zika%20viruses."
+  },
+  "Typhoid": {
+    "common name": "enteric fever",
+    "Disease overview": [
+      {
+        "general_overview": "Typhoid fever is an infection that spreads through contaminated food and water.Vaccines are recommended in areas where typhoid fever is common. Symptoms include high fever, headache, stomach pain, weakness, vomiting and loose stools. Treatment includes antibiotics and fluids."
+      },
+      {
+        "frequency": "Very Rare - Fewer than 100 thousand cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging often required|Short-term: resolves within days or weeks",
+        "cause": "Spreads through contaminated food or water"
+      }
+    ],
+    "types": "",
+    "symptoms": "high fever|stomach pain|weakness|vomiting|loose stools|constipation|diarrhoea|weight loss|muscle weakness",
+    "treatment": "Treatment includes antibiotics and fluids|Supportive care - IV fluids and Oral rehydration therapy",
+    "medications": "Antibiotics|Penicillin",
+    "specialists": "Primary Care Provider|Infectious Disease Doctor",
+    "more info": "https://www.medicalnewstoday.com/articles/156859#:~:text=Typhoid%20is%20a%20bacterial%20infection,where%20handwashing%20is%20less%20frequent."
+  },
+  "Tuberculosis": {
+    "common name": "TB",
+    "Disease overview": [
+      {
+        "general_overview": "A potentially serious infectious bacterial disease that mainly affects the lungs. The bacteria that cause TB are spread when an infected person coughs or sneezes. Most people infected with the bacteria that cause tuberculosis don't have symptoms. When symptoms do occur, they usually include a cough (sometimes blood-tinged), weight loss, night sweats and fever. Treatment isn't always required for those without symptoms. Patients with active symptoms will require a long course of treatment involving multiple antibiotics."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Medium-term: resolves within months",
+        "cause": "Spreads through repiratory droplets (cough or sneezes)| Also, can be spread through saliva"
+      }
+    ],
+    "types": "",
+    "symptoms": "blood-tinged cough|pain while breathing|fatigue|malaise|loss of muscle|severe weight loss|shortness of breath|fever",
+    "treatment": "Treatment isn't always required for those without symptoms. Patients with active symptoms will require a long course of treatment involving multiple antibiotics.",
+    "medications": "Antibiotics|Isoniazid|Rifampin|Pyrazinamide",
+    "specialists": "Pulmonologist|Primary Care Provider|Infectious Disease Doctor",
+    "more info": "https://medlineplus.gov/tuberculosis.html#:~:text=Tuberculosis%20(TB)%20is%20a%20disease,coughs%2C%20sneezes%2C%20or%20talks."
+  },
+  "Common Cold": {
+    "common name": "cold",
+    "Disease overview": [
+      {
+        "general_overview": "A common viral infection of the nose and throat. In contrast to the flu, a common cold can be caused by many different types of viruses. The condition is generally harmless and symptoms usually resolve within two weeks. Symptoms include a runny nose, sneezing and congestion. High fever or severe symptoms are reasons to see a doctor, especially in children. Most people recover on their own within two weeks. Over-the-counter products and home remedies can help control symptoms."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Usually self-treatable|Usually self-diagnosable|Lab tests or imaging not required|Short-term: resolves within days to weeks",
+        "cause": "By airborne respiratory droplets (coughs or sneezes)|By touching a contaminated surface (blanket or doorknob)|By saliva|By skin-to-skin contact (handshakes or hugs)"
+      }
+    ],
+    "types": "",
+    "symptoms": "runny nose|sneezing|congestion|fever|loss of smell|chills|watery eyes|body ache",
+    "treatment": "Most people recover on their own within two weeks. Over-the-counter products and home remedies can help control symptoms.",
+    "medications": "Analgesic|Decongestant|Antihistamine|phenylephrine nasal",
+    "specialists": "Paediatrician|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/cold-flu/cold"
+  },
+  "Pneumonia": {
+    "common name": "Pneumonia",
+    "Disease overview": [
+      {
+        "general_overview": "Infection that inflames air sacs in one or both lungs, which may fill with fluid. With pneumonia, the air sacs may fill with fluid or pus. The infection can be life-threatening to anyone, but particularly to infants, children and people over 65. Symptoms include a cough with phlegm or pus, fever, chills and difficulty breathing. Antibiotics can treat many forms of pneumonia. Some forms of pneumonia can be prevented by vaccines."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Short-term: resolves within days to weeks",
+        "cause": "By airborne respiratory droplets (coughs or sneezes)."
+      }
+    ],
+    "types": "",
+    "symptoms": "sharp pain in the chest|dehydration|clammy skin|shallow breathing|cough with pus|fever|malaise|body ache|difficulty breathing",
+    "treatment": "Antibiotics can treat many forms of pneumonia. Some forms of pneumonia can be prevented by vaccines|Supportive care - Oxygen therapy, Oral rehydration therapy and IV fluids",
+    "medications": "Antibiotics|Penicillin",
+    "specialists": "Lung Specialist|Primary Care Provider|Respiratory Therapist",
+    "more info": "https://www.healthline.com/health/pneumonia"
+  },
+  "Dimorphic hemmorhoids(piles)": {
+    "common name": "Piles",
+    "Disease overview": [
+      {
+        "general_overview": "Swollen and inflamed veins in the rectum and anus that cause discomfort and bleeding. Haemorrhoids are usually caused by straining during bowel movements, obesity or pregnancy. Discomfort is a common symptom, especially during bowel movements or when sitting. Other symptoms include itching and bleeding. A high-fibre diet can be effective, along with stool softeners. In some cases, a medical procedure to remove the haemorrhoid may be needed to provide relief."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Usually self-diagnosable|Lab tests or imaging not required|Chronic: can last for years or be lifelong",
+        "cause": "Piles are caused by increased pressure in the lower rectum. The blood vessels around the anus and in the rectum will stretch under pressure and may swell or bulge, forming piles. This may be due to: chronic constipation."
+      }
+    ],
+    "types": "",
+    "symptoms": "discomfort during bowel movements or when sitting|itching|bleeding|pain in the rectum| swelling|constipation",
+    "treatment": "A high-fibre diet can be effective, along with stool softeners. In some cases, a medical procedure to remove the haemorrhoid may be needed to provide relief|Self Care - High fiber diet, Ice packs, Cold compress and witch hazel extract",
+    "medications": "Steriod|Local anesthetic|Dietary Supplement",
+    "specialists": "Primary Care Provider",
+    "more info": "https://www.medicalnewstoday.com/articles/239454#:~:text=Piles%20are%20caused%20by%20increased,chronic%20constipation"
+  },
+  "Heartattack": {
+    "common name": "myocardial infarction",
+    "Disease overview": [
+      {
+        "general_overview": "A blockage of blood flow to the heart muscle. A heart attack is a medical emergency. A heart attack usually occurs when a blood clot blocks blood flow to the heart. Without blood, tissue loses oxygen and dies. Symptoms include tightness or pain in the chest, neck, back or arms, as well as fatigue, lightheadedness, abnormal heartbeat and anxiety. Women are more likely to have atypical symptoms than men. Treatment ranges from lifestyle changes and cardiac rehabilitation to medication, stents and bypass surgery."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging often required|Critical: needs emergency care",
+        "cause": "Heart attacks are caused by the blood supply to the heart being suddenly interrupted. Without this supply, heart muscles may be damaged and begin to die."
+      }
+    ],
+    "types": "",
+    "symptoms": "pain in the chest|abnormal heartbeat|dizziness|light-headedness|heartburn|anxiety",
+    "treatment": "Treatment ranges from lifestyle changes and cardiac rehabilitation to medication, stents and bypass surgery|Supportive care - Defibrillation and Oxygen Therapy|Therapies - Cardiac rehabilitation|Surgery - Coronary artery bypass surgery",
+    "medications": "Anticpagulant|Antianginal|Narcotic|Statin|ACE inhibitor",
+    "specialists": "Cardiologist|Cardiac Surgeon|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/heart-attack"
+  },
+  "Varicose veins": {
+    "common name": "Varicose veins",
+    "Disease overview": [
+      {
+        "general_overview": "Gnarled, enlarged veins, most commonly appearing in the legs and feet. Varicose veins are generally benign. The cause of this condition is not known. For many people, there are no symptoms and varicose veins are simply a cosmetic concern. In some cases, they cause aching pain and discomfort or signal an underlying circulatory problem.Treatment involves compression stockings, exercise or procedures to close or remove the veins."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help, but this condition can't be cured|Usually self-diagnosable|Lab tests or imaging not required|Chronic: can last for years or be lifelong",
+        "cause": "Varicose veins are usually caused by weak vein walls and valves. Inside your veins are tiny one-way valves that open to let the blood through, and then close to prevent it flowing backwards. Sometimes the walls of the veins become stretched and lose their elasticity, causing the valves to weaken."
+      }
+    ],
+    "types": "",
+    "symptoms": "no symptoms and varicose veins are simply a cosmetic concern|some people may experience swollen blood vessels in the skin or discolouration|bruising|heavy legs",
+    "treatment": "Treatment involves compression stockings, exercise or procedures to close or remove the veins|Devices - Elastic bandage and Compression stockings|Self Care - Physical exercise and weight loss|Medical Procedure - Laser therapy, Sclerotherapy, Radiofrequency ablation|Ambulatory phlebectomy",
+    "medications": "Asclera|sclerosing agents|Narcotic|Statin|ACE inhibitor",
+    "specialists": "Vascular Surgeon|Physical Medicine and Rehabilitation|Primary Care Provider",
+    "more info": "https://www.medicalnewstoday.com/articles/240129"
+  },
+  "Hypothyroidism": {
+    "common name": "underactive thyroid",
+    "Disease overview": [
+      {
+        "general_overview": "A condition in which the thyroid gland doesn't produce enough thyroid hormone.Hypothyroidism's deficiency of thyroid hormones can disrupt such things as heart rate, body temperature and all aspects of metabolism. Hypothyroidism is most prevalent in older women. Major symptoms include fatigue, cold sensitivity, constipation, dry skin and unexplained weight gain. Treatment consists of thyroid hormone replacement."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Chronic: can last for years or be lifelong",
+        "cause": "When your thyroid doesn't produce enough hormones, the balance of chemical reactions in your body can be upset. There can be a number of causes, including autoimmune disease, hyperthyroidism treatments, radiation therapy, thyroid surgery and certain medications."
+      }
+    ],
+    "types": "",
+    "symptoms": "fatigue|cold sensitivity|constipation|dry skin|unexplained weight gain|delayed puberty|hair loss|high cholestrol|sluggishness|brittle nails",
+    "treatment": "Treatment consists of thyroid hormone replacement.",
+    "medications": "levothyroxine|mitotane|interleukin-2|amiodarone ",
+    "specialists": "Endocrinologist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/hypothyroidism/symptoms-treatments-more#causes"
+  },
+  "Hypoglycemia": {
+    "common name": "low blood sugar",
+    "Disease overview": [
+      {
+        "general_overview": "Low blood sugar, the body's main source of energy. Diabetes treatment and other conditions can cause hypoglycaemia. Confusion, heart palpitations, shakiness and anxiety are symptoms. Consuming high-sugar foods or drinks, such as orange juice or regular fizzy drinks, can treat this condition. Alternatively, medication can be used to raise blood sugar levels. It's also important that a doctor identifies and treats the underlying cause."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Short-term: resolves within days to weeks",
+        "cause": "When your thyroid doesn't produce enough hormones, the balance of chemical reactions in your body can be upset. There can be a number of causes, including autoimmune disease, hyperthyroidism treatments, radiation therapy, thyroid surgery and certain medications."
+      }
+    ],
+    "types": "",
+    "symptoms": "Confusion|shakiness|anxiety|excess sweating|dryness|blurred vision|tingling lips|sleepiness|tremor|irritability",
+    "treatment": "Consuming high-sugar foods or drinks, such as orange juice or regular fizzy drinks, can treat this condition. Alternatively, medication can be used to raise blood sugar levels. It's also important that a doctor identifies and treats the underlying cause.",
+    "medications": "Sulfonylureas|Meglitinides|Biguanides|Thiazolidinediones ",
+    "specialists": "Critical Care Doctor|Primary Care Provider|Endocrinologist|Diabetologist",
+    "more info": "https://www.healthline.com/health/hypoglycemia"
+  },
+  "Osteoarthristis": {
+    "common name": "degenerative joint disease",
+    "Disease overview": [
+      {
+        "general_overview": "A type of arthritis that occurs when flexible tissue at the ends of bones wears down.The wearing down of the protective tissue at the ends of bones (cartilage) occurs gradually and worsens over time. Joint pain in the hands, neck, lower back, knees or hips is the most common symptom. Medication, physiotherapy and sometimes surgery can help reduce pain and maintain joint movement."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging often required|Chronic: can last for years or be lifelong",
+        "cause": "When your thyroid doesn't produce enough hormones, the balance of chemical reactions in your body can be upset. There can be a number of causes, including autoimmune disease, hyperthyroidism treatments, radiation therapy, thyroid surgery and certain medications."
+      }
+    ],
+    "types": "",
+    "symptoms": "joint pain in neck, lower back, knees or hips|stiffness|crackles in the joints|tender joints|joint deformity",
+    "treatment": "Medication, physiotherapy and sometimes surgery can help reduce pain and maintain joint movement.Self Care - Physical exercise, weight loss, Ice packs and Menthol|Therapies - Hydrotherapy, Stretching, Physical Therapy, Acupuncture|Surgery - Arthroscopy and Joint replacement",
+    "medications": "Acetaminophen|Nonsteroidal anti-inflammatory drugs|Duloxetine|Tylenol ",
+    "specialists": "Orthopaedic Surgeon|Rheumatologist|Physiotherapist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/osteoarthritis"
+  },
+  "Arthritis": {
+    "common name": "joint inflammation",
+    "Disease overview": [
+      {
+        "general_overview": "Inflammation of one or more joints, causing pain and stiffness that can worsen with age. Different types of arthritis exist, each with different causes including wear and tear, infections and underlying diseases. Symptoms include pain, swelling, reduced range of motion and stiffness. Medication, physiotherapy or sometimes surgery helps reduce symptoms and improve quality of life."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging often required|Chronic: can last for years or be lifelong",
+        "cause": "When your thyroid doesn't produce enough hormones, the balance of chemical reactions in your body can be upset. There can be a number of causes, including autoimmune disease, hyperthyroidism treatments, radiation therapy, thyroid surgery and certain medications."
+      }
+    ],
+    "types": "",
+    "symptoms": "pain|swelling|reduced range of motion|stiffness|physical deformity|stiff neck",
+    "treatment": "Cartilage is a firm but flexible connective tissue in your joints. It protects the joints by absorbing the pressure and shock created when you move and put stress on them. A reduction in the normal amount of this cartilage tissue cause some forms of arthritis.",
+    "medications": "Analgesic|Nonsteroidal anti-inflammatory drugs|Immunosuppressive drug|Tylenol ",
+    "specialists": "Orthopaedic Surgeon|Physiotherapist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/arthritis#_noHeaderPrefixedContent"
+  },
+  "(vertigo) Paroymsal  Positional Vertigo": {
+    "common name": "BPPV",
+    "Disease overview": [
+      {
+        "general_overview": "Episodes of dizziness and a sensation of spinning with certain head movements. Benign paroxysmal positional vertigo (BPPV) is triggered by certain changes in head position, such as tipping the head up or down. It's rarely serious unless it increases the risk of falling. People can experience dizziness, a spinning sensation (vertigo), lightheadedness, unsteadiness, loss of balance and nausea. Treatment includes a series of head movements that shift particles in the ears."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging rarely required|Short-term: resolves within days to weeks",
+        "cause": "BPV is the result of a disturbance inside your inner ear. The semicircular canals, or the tubes inside your ears, contain fluid that moves when you change your body’s position. The semicircular canals are extremely sensitive|BPV develops when small crystals of calcium carbonate that are normally in another area of the ear break free and enter the semicircular canals. It can also happen when these crystals form inside the semicircular canals. This causes your brain to receive confusing messages about your body’s position"
+      }
+    ],
+    "types": "",
+    "symptoms": "dizziness|spinning sensation|balance disorder|motion sickness|nausea|vertigo",
+    "treatment": "Treatment includes a series of head movements that shift particles in the ears|Epley maneuver - A technique to eliminate dizziness by sequentially putting the head into four different positions",
+    "medications": "Analgesic|Nonsteroidal anti-inflammatory drugs|Immunosuppressive drug|Tylenol ",
+    "specialists": "Physiotherapist|Neurologist|Otolaryngologist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/benign-positional-vertigo"
+  },
+  "Acne": {
+    "common name": "pimples",
+    "Disease overview": [
+      {
+        "general_overview": "A skin condition that occurs when hair follicles plug with oil and dead skin cells. Acne is most common in teenagers and young adults.Symptoms range from uninflamed blackheads to pus-filled pimples or large, red and tender bumps. Treatments include over-the-counter creams and cleanser, as well as prescription antibiotics."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging not required|Short-term: resolves within days to weeks",
+        "cause": "BPV is the result of a disturbance inside your inner ear. The semicircular canals, or the tubes inside your ears, contain fluid that moves when you change your body’s position. The semicircular canals are extremely sensitive|BPV develops when small crystals of calcium carbonate that are normally in another area of the ear break free and enter the semicircular canals. It can also happen when these crystals form inside the semicircular canals. This causes your brain to receive confusing messages about your body’s position"
+      }
+    ],
+    "types": "",
+    "symptoms": "pimples|blackhead|pus-filled pimples|red and tender bumps",
+    "treatment": "Treatments include over-the-counter creams and cleanser, as well as prescription antibiotics|Self Care - Benzoyl peroxide, Salicycli acid and Antibacterial soap",
+    "medications": "Anti-inflammatory|Vitamin A derivative|Antibiotics|Topical anitseptic",
+    "specialists": "Dermatologist|Primary Care Provider",
+    "more info": "https://www.medicalnewstoday.com/articles/107146#_noHeaderPrefixedContent"
+  },
+  "Urinary tract infection": {
+    "common name": "bladder infection",
+    "Disease overview": [
+      {
+        "general_overview": "An infection in any part of the urinary system, the kidneys, bladder or urethra. Urinary tract infections are more common in women. They usually occur in the bladder or urethra, but more serious infections involve the kidney. A bladder infection may cause pelvic pain, increased urge to urinate, pain with urination and blood in the urine. A kidney infection may cause back pain, nausea, vomiting and fever. Common treatment is with antibiotics."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Usually self-diagnosable|Lab tests or imaging often required|Short-term: resolves within days to weeks",
+        "cause": "The vast majority of urinary tract infections (UTIs) are caused by the bacterium Escherichia coli (E. coli), usually found in the digestive system. Chlamydia and mycoplasma bacteria can infect the urethra but not the bladder."
+      }
+    ],
+    "types": "",
+    "symptoms": "pelvic pain|increased urge to urinate|pain with urination|blood in the urine",
+    "treatment": "As UTIs are normally caused by bacteria, they are most commonly treated with antibiotics or antimicrobials|The full course of treatment should always be completed for UTIs to make sure that the infection is fully clear, and to reduce the risk of antibiotic resistance. UTI symptoms can disappear before the infection has completely gone",
+    "medications": "Antibiotics|Penicillin|Antibiotics|Trimethoprim|Fosfomycin",
+    "specialists": "OBGYN Doctor|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/urinary-tract-infection-adults"
+  },
+  "Psoriasis": {
+    "common name": "bladder infection",
+    "Disease overview": [
+      {
+        "general_overview": "A condition in which skin cells build up and form scales and itchy, dry patches.Psoriasis is thought to be an immune system problem. Triggers include infections, stress and cold.The most common symptom is a rash on the skin, but sometimes the rash involves the nails or joints.Treatment aims to remove scales and stop skin cells from growing so quickly. Topical ointments light therapy and medication can offer relief."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging rarely required|Chronic: can last for years or be lifelong",
+        "cause": "Psoriasis occurs when skin cells are replaced more quickly than usual. It's not known exactly why this happens, but research suggests it's caused by a problem with the immune system. Your body produces new skin cells in the deepest layer of skin."
+      }
+    ],
+    "types": "",
+    "symptoms": "rashes|dryness of skin|inflamed tendons|itching|flakiness of skin|peeling of skin",
+    "treatment": "Treatment aims to remove scales and stop skin cells from growing so quickly. Topical ointments, light therapy and medication can offer relief|Self Care - Stress management, Petroleum jelly, Light therapy, Ultraviolet light therapy, Moisturizer and Coal tar extract",
+    "medications": "Steroids|Retinoids|Methotrexate|Cyclosporine|Biologics",
+    "specialists": "Dermatologist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/psoriasis"
+  },
+  "Impetigo": {
+    "common name": "school sores",
+    "Disease overview": [
+      {
+        "general_overview": "A highly contagious skin infection that causes red sores on the face. Impetigo mainly affects infants and children. The main symptom is red sores that form around the nose and mouth. The sores rupture, ooze for a few days, then form a yellow-brown crust. Antibiotics shorten the infection and can help prevent spread to others."
+      },
+      {
+        "frequency": "Very Common - More than 10 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging rarely required|Short-term: resolves within days to weeks",
+        "cause": "Spreads by skin-to-skin contact (handshakes or hugs)."
+      }
+    ],
+    "types": "",
+    "symptoms": "red sore around nose and mouth|red rashes or blister on skin|itching|rupturing sores",
+    "treatment": "Antibiotics shorten the infection and can help prevent spread to others.",
+    "medications": "Antibibotics|Penicillin|trimethoprim|Amoxicillin|doxycycline",
+    "specialists": "Dermatologist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/impetigo#:~:text=Impetigo%20is%20an%20infection%20caused,The%20condition%20can%20be%20contagious."
+  },
+  "hepatitis A": {
+    "common name": "Hep A",
+    "Disease overview": [
+      {
+        "general_overview": "A highly contagious liver infection caused by the hepatitis A virus. Hepatitis A is preventable by vaccine. It spreads from contaminated food or water or contact with someone who is infected. Symptoms include fatigue, nausea, abdominal pain, loss of appetite and low-grade fever.The condition clears up on its own in one or two months. Rest and adequate hydration can help."
+      },
+      {
+        "frequency": "Rare - Fewer than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Short-term: resolves within days to weeks",
+        "cause": "Spreads through contaminated food or water|It's commonly caused by a viral infection, but there are other possible causes of hepatitis. These include autoimmune hepatitis and hepatitis that occurs as a secondary result of medications, drugs, toxins, and alcohol"
+      }
+    ],
+    "types": "",
+    "symptoms": "fatuigue|nausea|abdominal pain|low-grade fever|dark urine|weight loss|yellow skin and eyes",
+    "treatment": "Preventable by vaccine|The condition clears up on its own in one or two months. Your body will clear the hepatitis A on its own|Rest and adequate hydration can help|Self Care - self-healing and Rehydration, avoid alcohol and rest",
+    "medications": "Acetaminophen|Acetaminophen",
+    "specialists": "Hepatologist|Gastroenterologist|Primary Care Provider",
+    "more info": "https://www.mayoclinic.org/diseases-conditions/hepatitis-a/diagnosis-treatment/drc-20367055#:~:text=No%20specific%20treatment%20exists%20for,months%20with%20no%20lasting%20damage."
+  },
+  "Hepatitis B": {
+    "common name": "HBV",
+    "Disease overview": [
+      {
+        "general_overview": "A serious liver infection caused by the hepatitis B virus that's easily preventable by a vaccine. This disease is most commonly spread by exposure to infected bodily fluids. Symptoms are variable and include yellowing of the eyes, abdominal pain and dark urine. Some people, particularly children, don't experience any symptoms. In chronic cases, liver failure, cancer or scarring can occur. The condition often clears up on its own. Chronic cases require medication and possibly a liver transplant."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Short-term: resolves within days to weeks",
+        "cause": "Spreads through blood products (unclean needles), sexual contact, mother to baby by pregnancy|Hepatitis B is a serious liver infection caused by the hepatitis B virus (HBV). For some people, hepatitis B infection becomes chronic, meaning it lasts more than six months"
+      }
+    ],
+    "types": "",
+    "symptoms": "generally no symptoms|in chronic cases, liver failure, cancer or scarring can occure|web of swollen blood vessels in the skin or yellow skin and eyes|fluid in the abdomen",
+    "treatment": "Preventable by vaccine|Most people diagnosed with chronic hepatitis B infection need treatment for the rest of their lives. Treatment helps reduce the risk of liver disease and prevents you from passing the infection to others|Chronic cases require medication and possibly a liver transplant",
+    "medications": "entecavir|Antiviral drug|telbivudine",
+    "specialists": "Hepatologist|Gastroenterologist|Primary Care Provider",
+    "more info": "https://www.healthline.com/health/hepatitis-b"
+  },
+  "Hepatitis C": {
+    "common name": "Hep C",
+    "Disease overview": [
+      {
+        "general_overview": "An infection caused by a virus that attacks the liver and leads to inflammation. The virus is spread by contact with contaminated blood; for example, from sharing needles or from unsterile tattoo equipment. Most people have no symptoms. Those who do develop symptoms may have fatigue, nausea, loss of appetite and yellowing of the eyes and skin. Hepatitis C is treated with antiviral medication. In some people, newer medicines can eradicate the virus."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Short-term: resolves within days to weeks",
+        "cause": "Spreads through blood products (unclean needles), mother to baby by pregnancy|Hepatitis C is a liver disease caused by the hepatitis C virus (HCV): the virus can cause both acute and chronic hepatitis, ranging in severity from a mild illness lasting a few weeks to a serious, lifelong illness"
+      }
+    ],
+    "types": "",
+    "symptoms": "generally no symptoms|in some cases fatigue, nausea and loss of appetite|in chronic cases - fluid in the abdomen, depression and weight loss",
+    "treatment": "Hepatitis C is treated with antiviral medication. In some people, newer medicines can eradicate the virus|If you have acute hepatitis C, there is no recommended treatment|In chronic cases treatment is required, visit your doctor at the earliest",
+    "medications": "Daclatasvir|Antiviral drug|Ribavirin|Glecaprevir-pibrentasvir",
+    "specialists": "Hepatologist|Gastroenterologist|Primary Care Provider",
+    "more info": "https://www.who.int/news-room/fact-sheets/detail/hepatitis-c#:~:text=Hepatitis%20C%20is%20a%20liver,major%20cause%20of%20liver%20cancer."
+  },
+  "Hepatitis D": {
+    "common name": "Hep D",
+    "Disease overview": [
+      {
+        "general_overview": "A serious liver disease caused by infection with the hepatitis D virus. Hepatitis D only occurs amongst people who are infected with the Hepatitis B virus. Transmission requires contact with infectious blood. At-risk populations include intravenous drug abusers and men who have sex with men. Symptoms include abdominal pain, nausea and fatigue. There are few treatments specifically for hepatitis D, although different regimes may be tried. Management also focuses on supportive care."
+      },
+      {
+        "frequency": "Rare - Fewer than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Chronic: can last for years or be lifelong",
+        "cause": "Spreads through blood products (unclean needles), mother to baby by pregnancy|Hepatitis D only occurs in people who are also infected with the hepatitis B virus|Hepatitis D is spread when blood or other body fluids from a person infected with the virus enters the body of someone who is not infected|Hepatitis D can be an acute, short-term infection or become a long-term, chronic infection"
+      }
+    ],
+    "types": "",
+    "symptoms": "generally no symptoms|people may experience pain in the abdomen, fatigue, nausea",
+    "treatment": "There are no known treatments for acute or chronic hepatitis D. Unlike other forms of hepatitis, current antiviral medications don't seem to be very effective in treating HDV. You may be given large doses of a medication called interferon for up to 12 months|Self Care - avoid alcohol",
+    "medications": "Antiviral therapy",
+    "specialists": "Hepatologist|Gastroenterologist",
+    "more info": "https://www.healthline.com/health/delta-agent-hepatitis-d"
+  },
+  "Hepatitis E": {
+    "common name": "Hep D",
+    "Disease overview": [
+      {
+        "general_overview": "A liver disease caused by the hepatitis E virus. The hepatitis E virus is mainly transmitted through drinking water contaminated with faecal matter. Symptoms include jaundice, lack of appetite and nausea. In rare cases, it may progress to acute liver failure. Hepatitis E usually resolves on its own within four to six weeks. Treatment focuses on supportive care, rehydration and rest."
+      },
+      {
+        "frequency": "Common - More than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatment can help, but this condition can't be cured|Requires a medical diagnosis|Lab tests or imaging often required|Short-term: resolves within days to weeks",
+        "cause": "Spreads through contaminated food or water|Hepatitis E is an enterically transmitted infection that is typically self-limited|It is caused by the hepatitis E virus (HEV) and is spread by fecally contaminated water within endemic areas or through the consumption of uncooked or undercooked meat. Outbreaks can be epidemic and individual"
+      }
+    ],
+    "types": "",
+    "symptoms": "generally no symptoms|people may experience pain in the abdomen, fatigue, nausea, pale faeces",
+    "treatment": "Hepatitis E usually resolves on its own within four to six weeks. Treatment focuses on supportive care, rehydration and rest|Self Care - rest, drink lots of water and avoid alcohol",
+    "medications": "Ribavirin",
+    "specialists": "Hepatologist|Gastroenterologist|Infectious Disease Doctor",
+    "more info": "https://www.healthline.com/health/jaundice-yellow-skin"
+  },
+  "Alcoholic hepatitis": {
+    "common name": "Alcoholic hepatitis",
+    "Disease overview": [
+      {
+        "general_overview": "Liver inflammation caused by drinking too much alcohol. Alcoholic hepatitis can occur in people who drink heavily for many years. Symptoms include yellow skin and eyes along with increasing stomach size due to fluid accumulation. Treatment involves hydration, nutritional care and stopping alcohol use. Steroid drugs can help reduce liver inflammation."
+      },
+      {
+        "frequency": "Rare - Fewer than 1 million cases per year (India)"
+      },
+      {
+        "general_info": "Treatable by a medical professional|Requires a medical diagnosis|Lab tests or imaging always required|Short-term: resolves within days to weeks",
+        "cause": "Alcoholic hepatitis is caused by drinking too much alcohol. The liver breaks down alcohol and if, over time, you drink more alcohol than the liver can process, it can become seriously damaged. Alcoholic hepatitis usually develops over time with continued drinking."
+      }
+    ],
+    "types": "",
+    "symptoms": "yellow skin and eyes|pain in the abdomen|fluid in the abdomen|loss of appetite|vomiting",
+    "treatment": "Treatment involves hydration, nutritional care and stopping alcohol use. Steroid drugs can help reduce liver inflammation|",
+    "medications": "corticosteroids|pentoxifylline|Anti-inflammatory",
+    "specialists": "Hepatologist|Gastroenterologist|Primary Care Provider",
+    "more info": "https://www.medicalnewstoday.com/articles/313928"
+  }
+}
