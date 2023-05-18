@@ -8,6 +8,9 @@ def home():
         page_icon="👨‍⚕️",
     )
     st.sidebar.info(
+        "**Project**: This is Shubham Jaybhaye Final Year project"
+    )
+    st.sidebar.info(
         "**About**: This project is made using publicly available data and comes with no gaurantee. We do not store any of the patient's personal information."
     )
 
