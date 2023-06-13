@@ -1,6 +1,6 @@
 # Healthify
 
-### Deployed on Streamlit Cloud [here](https://gladiator07-healthify--home-jlmke9.streamlitapp.com/)
+### Deployed on Streamlit Cloud [here](https://shubhamjay11-healthify-multiple-disease-prediction--home-x8qcj8.streamlit.app/)
 
 ![image](https://user-images.githubusercontent.com/116708200/213470660-dc509dc1-2d51-4933-a52e-7b4426cac609.png)
 
